@@ -9,6 +9,8 @@ To run it locally, there are a few steps.
 
 Now, you're good to go :smile:
 
+[![Run on Repl.it](https://repl.it/badge/github/kaustavbhattacharya07/Stock-Market-Emulator)](https://repl.it/github/kaustavbhattacharya07/Stock-Market-Emulator)
+
 The live demo is hosted at [heroku](https://database-lab-app.herokuapp.com/) :grinning:
 
 The various features of the webapp are: 
